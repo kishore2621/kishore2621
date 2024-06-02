@@ -12,6 +12,19 @@
 
 - 📫 How to reach me **kishore21.offical.gmail.com**
 
+ 🛠️ Skills:
+- Java (Spring , Hibernate Framework)
+- Web Development (HTML, CSS, JavaScript)
+- My sql database
+- Problem Solving and Algorithms
+
+💡 I'm Interested In:
+
+- Open source projects
+- Collaboration and knowledge sharing
+- Building and working on projects that make a positive impact
+- java developer positions
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/kishore-v-an2126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kishore-v-an2126" height="30" width="40" /></a>
