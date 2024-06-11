@@ -23,7 +23,7 @@
 - Open source projects
 - Collaboration and knowledge sharing
 - Building and working on projects that make a positive impact
-- java developer positions
+- java developer position
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
